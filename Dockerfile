@@ -1,6 +1,6 @@
 FROM python:3
 
-EXPOSE 80
+EXPOSE 5004
 
 WORKDIR /tvhProxy
 
